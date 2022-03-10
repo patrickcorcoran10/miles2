@@ -1,0 +1,10 @@
+.resume-container {
+    display: flex;
+    justify-content: center;
+}
+
+.resume-link {
+    margin-top: 20px;
+    font-size: 20px;
+    color:#87A62C;
+}

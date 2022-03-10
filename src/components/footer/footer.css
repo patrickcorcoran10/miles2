@@ -1,0 +1,15 @@
+.footer-container {
+    display:flex;
+    background: #5D5D5D;
+    margin-top: 20px;
+    height:80px;
+    justify-content: center;
+}
+
+
+.button {
+    color: white;
+    font-size: 32px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
